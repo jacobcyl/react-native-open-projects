@@ -36,4 +36,6 @@ react native 优秀开源库集锦，欢迎协作推荐
 ### [纯React Native CNode论坛客户端](https://github.com/soliury/noder-react-native)
 > 使用redux框架，redux-actions + redux-promise 中间件，值得参考，下面是运行效果图：
 
-![](http://lookcode-wordpress.stor.sinaapp.com/uploads/2016/03/687474703a2f2f376c727a666a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f736f6c697572796e6f6465722d76312e302e302e676966.gif)
+![](https://github.com/jacobcyl/react-native-open-projects/blob/master/screenshot/noder-react-native.gif)
+
+## 欢迎大家一起维护这个文档，推荐优质的开源react native资源
