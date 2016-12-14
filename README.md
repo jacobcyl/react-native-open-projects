@@ -3,16 +3,22 @@ collect excellent react native open source components &amp; middleWare and so on
 react native 优秀开源库集锦，欢迎协作推荐
 
 ## 1 导航 tabbar
+### [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+> 这是react native官方文档推荐的第三方导航组件，非常不错
+
+<img src="https://github.com/wix/react-native/blob/master/assets/themes/bootstrap-3/images/demo.gif?raw=true" width="240">
+
+
 ### [react-native-scrollable-tab-view 滚动导航](https://github.com/skv-headless/react-native-scrollable-tab-view)
 > 顶部导航条，支持拖拽滚动
 
-![](https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo_images/demo.gif)
-![](https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo_images/demo-fb.gif)
+<img src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo_images/demo.gif" width="240">
+<img src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo_images/demo-fb.gif" width="240">
 
 ### [react-native-tabbar 底部导航](https://github.com/alinz/react-native-tabbar)
 > 底部导航菜单，下拉时可自动隐藏导航栏，上拉还原导航栏，非常适用于屏幕大小要求较高的app使用
 
-![](https://github.com/alinz/react-native-tabbar/blob/master/tabbar-orientation.gif)
+<img src="https://github.com/alinz/react-native-tabbar/blob/master/tabbar-orientation.gif" width="240">
 
 
 
@@ -36,6 +42,6 @@ react native 优秀开源库集锦，欢迎协作推荐
 ### [纯React Native CNode论坛客户端](https://github.com/soliury/noder-react-native)
 > 使用redux框架，redux-actions + redux-promise 中间件，值得参考，下面是运行效果图：
 
-![](https://github.com/jacobcyl/react-native-open-projects/blob/master/screenshot/noder-react-native.gif)
+<img src="https://github.com/jacobcyl/react-native-open-projects/blob/master/screenshot/noder-react-native.gif" width="240">
 
 ## 欢迎大家一起维护这个文档，推荐优质的开源react native资源
