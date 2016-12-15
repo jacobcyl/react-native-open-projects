@@ -20,7 +20,10 @@ react native 优秀开源库集锦，欢迎协作推荐
 
 <img src="https://github.com/alinz/react-native-tabbar/blob/master/tabbar-orientation.gif" width="240">
 
+### [react-native-tab-navigator](https://github.com/exponentjs/react-native-tab-navigator)
+> 底部菜单，实现简单，贴出江清清的demo截图
 
+<img src="http://lookcode-wordpress.stor.sinaapp.com/uploads/2016/08/Tab.gif" width="240">
 
 ## 2 中间件
 ### [acdlite/redux-actions](https://github.com/acdlite/redux-actions)
